@@ -1,0 +1,42 @@
+collections:
+  experiences:
+    output: true 
+  projects:
+    output: true
+  posts:
+    future: true
+
+defaults: 
+  - scope:
+      path: ""
+      type: "experiences"
+    values:
+      layout: "content"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "content"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "content"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+description: Kristen Kwong is a software engineer and third year Computer Science student at UBC in Vancouver, Canada, with a passion for development, design, and travel.
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+highlighter: rouge
+
+permalink: /:categories/:title
+
+paginate: 8
+paginate_path: "/blog/page:num/"
