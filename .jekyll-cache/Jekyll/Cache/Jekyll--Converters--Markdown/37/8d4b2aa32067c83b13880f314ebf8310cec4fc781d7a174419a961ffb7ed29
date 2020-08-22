@@ -1,0 +1,11 @@
+I"Y<div class="sidebar">
+	<b>Dates:</b> Apr - Aug 2018
+	<br /><b>Location:</b> Cupertino, California
+	<br /><b>Tools:</b> Python, AngularJS, Flask
+	<br /><br /><b>Responsibilities:</b>
+	<br />• Designed and developed web application to fetch and visualize test results and metrics using <mark>AngularJS</mark>
+	<br />• Built RESTful API using <mark>Flask</mark>, with back-end data processing and analysis of data gathered from MongoDB, APIs, and other sources
+	<br />• Developed automation framework with <mark>Python</mark> to run user-experience scenarios on iOS devices using a Python Objective-C bridge custom class
+	<br />• Merged framework into a pipeline for automatic trigger upon build releases, improving efficiency of the End-User team through automated bug filing, summarized email reports, and screen captures for review and demo 
+</div>
+:ET
