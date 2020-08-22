@@ -150,9 +150,9 @@ nav {
 	color: $primary-color;
 	position: relative;
 
-	.container {
+	//.container {
 
-	}
+	//}
 
 	#title {
 		height: auto;
@@ -279,7 +279,8 @@ nav {
 
 	.dates {
 		font-size: $body-font-size;
-		font-color: $secondary-color;
+		
+		//font-color: $secondary-color;
 	}
 
 	.tagline {
