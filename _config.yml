@@ -1,3 +1,7 @@
+theme: jekyll-theme-leap-day
+title: [Welcome-to-Marcelo]
+description: [Hi, I am Marcelo]
+
 collections:
   experiences:
     output: true 
