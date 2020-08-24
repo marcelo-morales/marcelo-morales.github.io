@@ -27,7 +27,7 @@ defaults:
     values:
       layout: "default"
 
-description: Kristen Kwong is a software engineer and third year Computer Science student at UBC in Vancouver, Canada, with a passion for development, design, and travel.
+description: Marcelo is a rising sophomore at Johns Hopkins University double majoring in computer science and applied math
 
 plugins:
   - jekyll-feed
