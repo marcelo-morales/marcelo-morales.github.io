@@ -1,13 +1,14 @@
 ---
-position: Software Engineering Intern (Power & Performance)
+position: Public Relations Communication Intern
 dates: April - August 2018
 title: Apple Inc.
 startdate: 2018-04-30
 tagline: developed tools to analyse and improve the software performance of millions of devices around the world,
-banner: /assets/images/experience/apple2018.JPG
-subtitle: I developed tools to analyse and improve the software performance of millions of devices around the world by implementing solutions to greatly increase the efficiency of data gathering and analysis.
+banner: /assets/images/experience/thread.jpg
+subtitle: Help with mailing list cleanup using the Pardot platform in Salesforce. Take part in call campaign to update information in database and aid Thread in better interacting with the Spanish speaking community in Baltimore through new initiatives
 description: 
 ---
+<!--
 <div class="sidebar">
 	<b>Dates:</b> Apr - Aug 2018
 	<br><b>Location:</b> Cupertino, California
@@ -54,3 +55,4 @@ Unfortunately, I can't go into too many details about my everyday work, but here
 - Gymmed at Apple Park
 - Completed an Apple Wellness Challenge and got a gold water bottle
 - Bought way too many Apple shirts and Apple products
+-->

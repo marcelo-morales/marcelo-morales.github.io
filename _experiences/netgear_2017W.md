@@ -1,12 +1,12 @@
 ---
-position: Software Test Engineer
-dates: Jan - Aug 2017
-title: Netgear
+position: Classroom Assistant
+dates: Februaey - Present
+title: Civic & Social Organization
 startdate: 2017-01-02
 tagline: integrated an Arduino into a testing framework for a previously manual process,
 banner: /assets/images/experience/netgear.JPG
 subtitle:
-description: I did my first 8-month coop at Netgear as a Software Test Engineer, where I worked on building the testing framework for an upcoming project.
+description: Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
 ---
 <!-- <div class="sidebar">
 	<b>Dates:</b> Jan - Aug 2017
@@ -18,6 +18,7 @@ description: I did my first 8-month coop at Netgear as a Software Test Engineer,
 	<br>• Built hardware testing tools using <mark>Arduino</mark>, providing a maintainable and reusable test environment structure for future test procedures
 </div> -->
 
+<!-- 
 ## Software Test Engineer Co-op @ Netgear
 
 **Dates:** Jan - Aug 2017
@@ -35,3 +36,4 @@ description: I did my first 8-month coop at Netgear as a Software Test Engineer,
 • Built hardware testing tools using <mark>Arduino</mark>, providing a maintainable and reusable test environment structure for future test procedures
 
 ## Writeup coming soon!
+-->
