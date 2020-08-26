@@ -3,7 +3,7 @@ position: PILOT Leader
 dates: August 2020 - Present
 title: UBC Hacks & nwPlus
 startdate: 2016-10-01
-tagline: and organized three hackathons focussed on improving the diversity, inclusivity, and accessibility of the tech community.
+tagline: act as a captain and facilitate peer-lead team learning meetings 
 banner: /assets/images/experience/pilot.png
 subtitle: As a PILOT leader, I tutor 7-12 students per week over the Johns Hopkins University course Calculus I (AS.110.108) through hand-made lesson plans and problem sets. 
 description: The PILOT Learning Program is a peer-led team learning program where  students are organized into study teams consisting of 6-10 members who meet weekly to work problems together. A trained student leader acts as captain and facilitates the meetings. PILOT aims to help students make a smooth transition to college life both academically and socially. More importantly, PILOT aims to actively teach and demonstrate how collaborative learning uses contributions from individuals to benefit a group.
