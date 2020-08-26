@@ -26,12 +26,6 @@ layout: default
   </div>
 
 
-  <!-- <div class="vert-line"></div> -->
-  <!--
-  <div class="resume">
-    <a href="/assets/resume.pdf">résumé</a>
-  </div>
-  -->
 
 <a id="experiences"></a>
 <div id="experiences">
@@ -41,7 +35,6 @@ layout: default
     </div>
   </div>
   
-
   <div class="container">
     {% assign sorted_experiences = site.experiences | sort: "startdate" |
     reverse %} {% for experience in sorted_experiences %}
@@ -50,9 +43,11 @@ layout: default
         <a href="{{ experience.url }}">{{ experience.tagline }}</a>
       </div>
       <div class="description">
-        <div class="company"><mark>{{ experience.title }}</mark></div>
-        <div class="position">{{ experience.position | strip_html }}</div>
-        <div class="dates">{{ experience.dates }}</div>
+        <div class="text">
+          <div class="company"><mark>{{ experience.title }}</mark></div>
+          <div class="position">{{ experience.position | strip_html }}</div>
+          <div class="dates">{{ experience.dates }}</div>
+      </div>
       </div>
     </div>
     {% endfor %}
