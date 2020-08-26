@@ -5,7 +5,7 @@ title: Civic & Social Organization
 startdate: 2020-02-02
 tagline: Teach math, reading, and writing skills to 5th and 6th graders from Baltimore inner-city public schools and help promote positive social development for students.
 banner: /assets/images/experience/netgear.JPG
-subtitle:Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
+subtitle: Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
 description: Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
 ---
 <!-- <div class="sidebar">

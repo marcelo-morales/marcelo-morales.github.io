@@ -1,9 +1,10 @@
 ---
 position: Public Relations Communication Intern
-dates: April - August 2018
-title: Apple Inc.
-startdate: 2018-04-30
-tagline: developed tools to analyse and improve the software performance of millions of devices around the world,
+dates: July - August 2020
+title: Thread
+startdate: 2020-07-11
+tagline: Spearheaded project to to ensure that Thread has the structures, processes and systems in place to support students ESL stdents
+
 banner: /assets/images/experience/thread.jpg
 subtitle: Help with mailing list cleanup using the Pardot platform in Salesforce. Take part in call campaign to update information in database and aid Thread in better interacting with the Spanish speaking community in Baltimore through new initiatives
 description: 
