@@ -3,7 +3,7 @@ position: FinTech Focus fellow (<a href="https://www.fintechfocus.com/#:~:text=F
 dates: July 2019 - August 2019
 title: Bank of America
 startdate: 2019-07-20
-tagline: Intern at Bank of America
+tagline: Intern at Bank of America under Upperline Code
 banner: /assets/images/experience/fintech.jpg
 subtitle: FinTech Focus is a four-week immersive program designed for incoming college freshmen with an interest in finance, computer science and technology. Over the course of the program, students learn the principles of computer science, gain exposure to the financial services industry, and get hands-on experience developing real-world applications. Students will have the opportunity to hear from guest speakers, learn the basics of banking and finance, and gain insights into STEM career paths available in college and beyond
 ---

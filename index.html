@@ -2,6 +2,7 @@
 title: Marcelo Morales - CS @ JHU
 layout: default
 ---
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 <div id="hero">
   <div class="container">
@@ -10,6 +11,8 @@ layout: default
     </span>
   </div>
 </div>
+
+<img src="/assets/images/experience/circle-cropped.png" alt="Responsive image" class="img-thumbnail">
 
 <a id="about"></a>
 <div id="about">
@@ -22,7 +25,7 @@ layout: default
   </div>
 
 
-  <div class="vert-line"></div>
+  <!-- <div class="vert-line"></div> -->
   <!--
   <div class="resume">
     <a href="/assets/resume.pdf">résumé</a>
@@ -32,14 +35,14 @@ layout: default
 
 <a id="experiences"></a>
 <div id="experiences">
-  <div class="section-header">
+  <div class="container">
     some of my experiences
   </div>
 
   <div class="container">
     {% assign sorted_experiences = site.experiences | sort: "startdate" |
     reverse %} {% for experience in sorted_experiences %}
-    <div class="experience">
+    <div class="container">
       <div class="tagline">
         <a href="{{ experience.url }}">{{ experience.tagline }}</a>
       </div>
@@ -55,7 +58,7 @@ layout: default
 
 <a id="projects"></a>
 <div id="projects">
-  <div class="section-header">
+  <div class="container">
     projects i have worked on
   </div>
 
@@ -139,8 +142,8 @@ layout: default
           Empower Summit</a> <br /> 👨‍💻
         Mentored for
         <a href="https://technovationchallenge.org">Technovation Challenge</a>
-        <br />  Designated as a Hispanic Scholarship Fund Scholar, selected to attend Youth Leadership Institute (2017), mentored for YLI (2020), attended National Leadership Conference (2020)
-        <a href=https://www.hsf.net>HSF</a>
+        <br />  Designated as a <a href=https://www.hsf.net>Hispanic Scholarship Fund</a> Scholar selected to attend Youth Leadership Institute (2017), later mentored for YLI (2020), participant at National Leadership Conference (2020)
+        
       </div>
     </div>
     <div class="item">

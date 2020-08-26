@@ -1,7 +1,7 @@
 ---
 position: PILOT Leader
 dates: August 2020 - Present
-title: UBC Hacks & nwPlus
+title: Johns Hopkins University Academic Support
 startdate: 2016-10-01
 tagline: act as a captain and facilitate peer-lead team learning meetings 
 banner: /assets/images/experience/pilot.png
