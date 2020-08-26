@@ -6,13 +6,14 @@ layout: default
 
 <div id="hero">
   <div class="container">
+    <img src="/assets/images/experience/circle-cropped.png" alt="Responsive image" class="img-thumbnail">
+
     <span id="title"
+      
       >Hey there, <br />I'm <span class="highlight-on-scroll">Marcelo</span>! 👋🏻
     </span>
   </div>
 </div>
-
-<img src="/assets/images/experience/circle-cropped.png" alt="Responsive image" class="img-thumbnail">
 
 <a id="about"></a>
 <div id="about">
@@ -31,13 +32,15 @@ layout: default
     <a href="/assets/resume.pdf">résumé</a>
   </div>
   -->
-</div>
 
 <a id="experiences"></a>
 <div id="experiences">
-  <div class="container">
-    some of my experiences
+  <div class="container-header">
+    <div class="section-header">
+      some of my experiences
+    </div>
   </div>
+  
 
   <div class="container">
     {% assign sorted_experiences = site.experiences | sort: "startdate" |
@@ -56,10 +59,13 @@ layout: default
   </div>
 </div>
 
+
 <a id="projects"></a>
 <div id="projects">
-  <div class="container">
-    projects i have worked on
+  <div class="container-header">
+    <div class="section-header">
+      projects i have worked on
+    </div>
   </div>
 
   <div class="container">
@@ -115,6 +121,8 @@ layout: default
     {% endfor %}
   </div>
 </div>
+
+
 
 <div id="passions">
   <div class="container-header">
