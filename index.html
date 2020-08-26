@@ -26,7 +26,6 @@ layout: default
   </div>
 
 
-
 <a id="experiences"></a>
 <div id="experiences">
   <div class="container-header">
@@ -44,10 +43,12 @@ layout: default
       </div>
       <div class="description">
         <div class="text">
-          <div class="company"><mark>{{ experience.title }}</mark></div>
-          <div class="position">{{ experience.position | strip_html }}</div>
-          <div class="dates">{{ experience.dates }}</div>
-      </div>
+          <div class="item">
+            <div class="company"><mark>{{ experience.title }}</mark></div>
+            <div class="position">{{ experience.position | strip_html }}</div>
+            <div class="dates">{{ experience.dates }}</div>
+          </div>
+        </div>
       </div>
     </div>
     {% endfor %}
@@ -97,7 +98,11 @@ layout: default
           </a>
         </div>
         <div class="project-summary">
-          {{ project.summary }}
+          <div class="item"></div>
+          <div class="text">
+            {{ project.summary }}
+          </div>
+          </div>
         </div>
         {% unless project.readmore == false %}
         <div class="link">

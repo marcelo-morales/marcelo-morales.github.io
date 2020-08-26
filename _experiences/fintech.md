@@ -1,5 +1,5 @@
 ---
-position: FinTech Focus fellow (<a href="https://www.fintechfocus.com/#:~:text=FinTech%20Focus%20is%20a%20four,finance%2C%20computer%20science%20and%20technology.&text=FinTech%20Focus%20is%20a%20three,finance%2C%20computer%20science%20and%20technology."></a>)
+position: FinTech Focus fellow 
 dates: July 2019 - August 2019
 title: Bank of America
 startdate: 2019-07-20
