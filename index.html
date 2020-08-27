@@ -180,7 +180,7 @@ layout: default
       </div>
     </div>
 
-    {% include footer.html %}
+
     <!--
     <div class="features">
       <div class="heading">Features</div>
@@ -199,6 +199,14 @@ layout: default
         
       </div>
       -->
+
+
     </div>
   </div>
 </div>
+
+<body>
+  {% include navigation.html %}
+  {{ content }}
+  {% include footer.html %}
+</body>
