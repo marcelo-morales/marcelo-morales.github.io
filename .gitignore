@@ -10,3 +10,10 @@ vendor/
 
 #this is how to serve the site:  bundle exec jekyll serve
 #and visit it at http://127.0.0.1:4x000. From here, you’re ready to continue developing the site on your own. All of the normal Jekyll commands are available to you, but you should prefix them with bundle exec so that Bundler runs the version of Jekyll that is installed in your project folder.
+
+#port issues 
+#sudo lsof -wni tcp:4000
+
+#then
+
+#$> sudo kill -9 PID
