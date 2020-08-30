@@ -16,7 +16,7 @@ Pretend you are teaching it to someone that is 5 years old,
 Identify gaps in your explanation; go back and relearn if necessary...
 This website brings this technique to you in a sleek and modern service!
 banner: /assets/images/projects/frienDB.png
-readmore: false
+readmore: true
 ---
 
 
