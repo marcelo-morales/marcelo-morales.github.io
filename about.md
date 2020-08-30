@@ -13,7 +13,7 @@ And... here I am. I am bracing myself for (virtual) school, but I will try to ma
 
 I love what I do, and I'm privileged to have the opportunity to work with and learn from some really amazing people in academia and industry. I'm always looking for opportunities to further develop my skills, and positively impact those around me with meaningful work.
 
-You can find me online on <a href="https://twitter.com/kristenkwng">Twitter</a>, <a href="https://www.linkedin.com/in/kristenkwong/">LinkedIn</a>, or through <a href="mailto:kristenkwong@gmail.com">email</a>. When I'm not coding, I'm probably travelling, listening to <a href="https://itunes.apple.com/us/album/spider-man-into-spider-verse-soundtrack-from-inspired/1445949265">music</a>, eating <a href="https://www.instagram.com/kristenvsfood/">brunch</a>, drawing, and/or playing video games (not necessarily but *possibly* at the same time).
+You can find me online on <a href="https://twitter.com/MarceloM2808">Twitter</a>, <a href="https://www.linkedin.com/in/marcelomoraless/">LinkedIn</a>, or through <a href="mailto:leonardofutcol@gmail.com">email</a>. When I'm not coding, I'm probably traveling, listening to <a href="https://open.spotify.com/playlist/16sNt0KqiBgCd8malpLOCw?si=zh4Zb_sXQ8CVKo6r93we0Q">music</a>, eating <a href="https://www.seriouseats.com/2015/06/essential-peruvian-cuisine.html">brunch</a>, drawing, and/or playing video games (not necessarily but *possibly* at the same time).
 
 
 
