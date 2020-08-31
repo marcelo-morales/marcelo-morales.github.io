@@ -1,6 +1,6 @@
 ---
 position: Public Relations Communication Intern
-dates: July 2020- August 2020
+dates: July 2020- Present
 title: Thread
 startdate: 2020-07-11
 tagline: spearheaded project to to ensure that Thread has the systems in place to support ESL students
