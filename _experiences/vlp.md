@@ -4,7 +4,6 @@ dates: Februaey 2020 - Present
 title: Civic & Social Organization
 startdate: 2020-02-02
 tagline: teach math, reading, and writing skills students from Baltimore inner-city public schools 
-banner: /assets/images/experience/vlp.jpg
 subtitle: Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
 description: Helped improve and retain students’ from Baltimore public schools reading and mathematical skills through research-based curricula. Created innovative ways to keep the students engaged and effectively learn classroom material. Encouraged students to develop social skills such as learning how to effectively convey feelings.
 ---

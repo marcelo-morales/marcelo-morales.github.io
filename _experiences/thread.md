@@ -3,7 +3,7 @@ position: Public Relations Communication Intern
 dates: July 2020- August 2020
 title: Thread
 startdate: 2020-07-11
-tagline: spearheaded project to to ensure that Thread has the systems in place to support students ESL stdents
+tagline: spearheaded project to to ensure that Thread has the systems in place to support ESL students
 
 banner: /assets/images/experience/thread.jpg
 subtitle: Help with mailing list cleanup using the Pardot platform in Salesforce. Take part in call campaign to update information in database and aid Thread in better interacting with the Spanish speaking community in Baltimore through new initiatives

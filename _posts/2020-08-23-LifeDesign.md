@@ -1,6 +1,6 @@
 ---
 title: Intro to Git Workshop Resources
-summary: Resources for the Intro to Git workshop that I presented at cmd-f in 2019 and 2020, including slides. To be updated :)
+summary: Resources for the Intro to Git workshop that I presented at a hackathon called DefHacks.
 banner: ""
 tags:
   - git

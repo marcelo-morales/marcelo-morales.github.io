@@ -1,7 +1,7 @@
 ---
 layout: content
 title: About Me
-banner: /assets/images/experience/circle-cropped.png
+
 ---
 # Hi! My name is Marcelo Morales
 
