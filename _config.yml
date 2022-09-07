@@ -35,7 +35,7 @@ defaults:
     values:
       layout: "default"
 
-description: Marcelo is a rising sophomore at Johns Hopkins University double majoring in computer science and applied math
+description: Marcelo is a Johns Hopkins University student majoring in computer science
 
 plugins:
   - jekyll-feed
